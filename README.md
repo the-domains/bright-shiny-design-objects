@@ -1,0 +1,1 @@
+# bright-shiny-design-objects
