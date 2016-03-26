@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[bright shiny design objects]]></title>
         <description><![CDATA[bright shiny design objects]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bright-shiny-design-objects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 19:48:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Mar 2016 19:49:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bright-shiny-design-objects/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[5 Things No One Tells You About Going Full-Time Again]]></title>
+            <description><![CDATA[<article><h1>5 Things No One Tells You About Going Full-Time Again</h1><p>Everyone writes about going from full-time to freelance, but we’re here to present lessons from the other side.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa327fffbccf80700ef3481468ae58a765a007a3.jpg"></article>]]></description>
+            <link>http://99u.com/articles/53605/5-things-no-one-tells-you-about-going-full-time-again?utm_source=99U&amp;utm_campaign=86b9daf019-Weekly_3_24_16&amp;utm_medium=email&amp;utm_term=0_bdabfaef00-86b9daf019-155310841</link>
+            <guid isPermaLink="false">ddf61ae4-58f1-4397-ad94-8b584e349df0</guid>
+            <pubDate>Sat, 26 Mar 2016 19:49:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Cheatsheet</p>]]></description>
