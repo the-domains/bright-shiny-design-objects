@@ -1,6 +1,6 @@
 name: bright shiny design objects
 favicon: null
-layout_spectrum: 0.000631662318482995
+layout_spectrum: 0.50031
 typography_spectrum: 0.64794
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#fffae7'
     - '#fec200'
     - '#e73511'
-  brandStrength: 0.5
-  lightness: 0.10473953699693084
+  brandStrength: 0.1875
+  lightness: 0.5
   saturation: 0.6875
   rhythmicContrast: 0.20016983500681818
 purpose: []
