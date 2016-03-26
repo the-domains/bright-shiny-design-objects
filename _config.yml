@@ -22,7 +22,7 @@ color:
     - '#fec200'
     - '#e73511'
   brandStrength: 0.1875
-  lightness: 0.5
-  saturation: 0.6875
+  lightness: 0.75
+  saturation: 0.9375
   rhythmicContrast: 0.20016983500681818
 purpose: []
